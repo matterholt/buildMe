@@ -1,0 +1,17 @@
+[{
+    "_id": "123",
+    "groupName": "work",
+    "members": ["james Smith", "Jim Smit"],
+    "join_request ": [{
+        "name": "Tim",
+        "status": false
+    }]
+}, {
+    "_id": "345",
+    "groupName": "neighbor",
+    "members": ["sal Smith", "bob Smit"],
+    "join_request ": [{
+        "name": "jim",
+        "status": false
+    }]
+}]

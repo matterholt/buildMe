@@ -1,0 +1,13 @@
+[{
+    "_id": "123",
+    "name": "james",
+    "email": "jSmith@the.com",
+    "groups": ["work", "friends", "other"],
+    "timeStamp ": "01.02.3004"
+}, {
+    "_id": "456",
+    "name": "jim",
+    "email": "jSmit@the.com",
+    "groups": ["work", "friends", "other"],
+    "timeStamp ": "01.02.3004"
+}]
